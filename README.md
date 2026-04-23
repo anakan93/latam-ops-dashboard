@@ -2,7 +2,7 @@
 
 A 4-page Power BI operational intelligence dashboard built to monitor data reporting compliance, account volumes, analyst performance, and sociodemographic data coverage across 10 Latin American countries.
 
-> **Context:** Inspired by real operational dashboards built during my role as Senior Data Analyst at TransUnion LLC (2022–2024), where I was responsible for LATAM region reporting visibility and decision-making tools.
+> **Context:** Inspired by real operational dashboards built during my role as Senior Data Analyst  (2022–2024), where I was responsible for LATAM region reporting visibility and decision-making tools.
 
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=flat-square&logo=powerbi)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=flat-square)
