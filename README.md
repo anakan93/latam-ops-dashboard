@@ -56,7 +56,7 @@ The dataset (`latam_operations_data.csv`) contains **60 rows** representing mont
 - 7 sociodemographic coverage fields per country (age, gender, income, employment, education, marital status, address, phone)
 - Overall coverage % and data quality score
 
-> ⚠️ **Note:** All data in this repository is simulated for portfolio purposes. No real TransUnion data is used.
+> ⚠️ **Note:** All data in this repository is simulated for portfolio purposes. No real data is used.
 
 ---
 
@@ -115,7 +115,7 @@ If you want to rebuild from scratch, follow the step-by-step guide in `POWERBI_B
 
 **Andres Vargas**  
 Master of Information Technology — ICMS, Sydney (2026)  
-Former Senior Data Analyst — TransUnion LLC (2022–2024)
+Former Senior Data Analyst  (2022–2024)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/andres-vargas)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/anakan93)
